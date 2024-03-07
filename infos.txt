@@ -1,0 +1,14 @@
+"""
+SAID Faten Racha - M1 DAC
+MAOUCHE Mounir - M1 IMA
+"""
+
+Les notebooks parties A et B sont consacrés au prétraitement des dataset et l'extraction du vocabulaire.
+
+Les notebooks parties C et D sont dédiés aux tests de classification et à l'évaluation des résultats.
+
+Le dossier dataframes contient les fichiers csv correspondant aux dataframes résultants des différents prétraitements effectués.
+
+Le dossier datasets contient les datasets fournis.
+
+Le dossier stopwords contient les fichiers utilisés lors des expérimentations portées sur le prétraitement des données.
