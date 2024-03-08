@@ -3,7 +3,7 @@ Projet de la partie Traitement Automatique du Langage de l'UE RITAL M2-S2 Sorbon
 
 # Binôme
 - MAOUCHE Mounir M1-IMA
-- SAID Racha M1-DAC
+- [SAID Racha](https://github.com/said-racha) M1-DAC
 
 # Problèmes étudiés
 - Reconnaissance de locuteur
