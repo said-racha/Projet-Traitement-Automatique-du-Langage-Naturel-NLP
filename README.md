@@ -1,4 +1,4 @@
- Présentation
+# Présentation
 Projet de la partie Traitement Automatique du Langage de l'UE RITAL M2-S2 Sorbonne Université (parcours DAC)
 
 # Binôme
