@@ -2,8 +2,8 @@
 Projet de la partie Traitement Automatique du Langage de l'UE RITAL M2-S2 Sorbonne Université (parcours DAC)
 
 # Binôme
-MAOUCHE Mounir M1-IMA
-SAID Racha M1-DAC
+- MAOUCHE Mounir M1-IMA
+- SAID Racha M1-DAC
 
 # Principe
 - Utilisation d'une représentation bag of words pour de la classification de textes sur deux taches de classification séparées: reconnaissance de locuteur, et analyse de sentiments
@@ -14,7 +14,11 @@ SAID Racha M1-DAC
 
 # Performances et résultats
 ## Dataset "Présidents" : 
-f1-score : 71.68 %, AUC ROC : 96.43 %, AUC RP : 87.23 %
+- f1-score : 71.68 %
+- AUC ROC : 96.43 %
+- AUC RP : 87.23 %
 
 ## Dataset "Movies" :
-accuracy : 81.16 %, précision: 89.16 %, rappel : 81.44 %
+- accuracy : 81.16 % 
+- précision: 89.16 %
+- rappel : 81.44 %
