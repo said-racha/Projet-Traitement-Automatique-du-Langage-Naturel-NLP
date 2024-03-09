@@ -16,13 +16,17 @@ Projet de la partie Traitement Automatique du Langage de l'UE RITAL (parcours DA
 - Evaluation des performances des modèles à travers des mesures adaptées à la nature des datasets (equilibré/déséquilibré)
 - Etude et utilisation de différentes notions de machine learning pour maximiser le score du modèle (sur/sous-échantillonnage, lissage, régularisation...)
 
+# Datasets:
+- **"Présidents"** : Phrases extraites d'un débat entre François Mitterrand et Jacques Chirac
+- **"Movies"** : Revues de films accompagnées de leur polarité
+ 
 # Performances et résultats
-## Dataset "Présidents" (Phrases extraites d'un débat entre François Mitterrand et Jacques Chirac) : 
-- f1-score : 71.68 %
-- AUC ROC : 96.43 %
-- AUC RP : 87.23 %
+## Dataset "Présidents" :
+- **f1-score** : 71.68 %
+- **AUC ROC** : 96.43 %
+- **AUC RP** : 87.23 %
 
-## Dataset "Movies" (Revues de films accompagnées de leur polarité):
-- accuracy : 81.16 % 
-- précision: 89.16 %
-- rappel : 81.44 %
+## Dataset "Movies" :
+- **accuracy** : 81.16 % 
+- **précision**: 89.16 %
+- **rappel** : 81.44 %
