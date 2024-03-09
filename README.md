@@ -17,12 +17,12 @@ Projet de la partie Traitement Automatique du Langage de l'UE RITAL (parcours DA
 - Etude et utilisation de différentes notions de machine learning pour maximiser le score du modèle (sur/sous-échantillonnage, lissage, régularisation...)
 
 # Performances et résultats
-## Dataset "Présidents" : 
+## Dataset "Présidents" (Phrases extraites d'un débat entre François Mitterrand et Jacques Chirac) : 
 - f1-score : 71.68 %
 - AUC ROC : 96.43 %
 - AUC RP : 87.23 %
 
-## Dataset "Movies" :
+## Dataset "Movies" (Revues de films accompagnées de leur polarité):
 - accuracy : 81.16 % 
 - précision: 89.16 %
 - rappel : 81.44 %
