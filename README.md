@@ -28,5 +28,5 @@ Projet de la partie Traitement Automatique du Langage de l'UE RITAL (parcours DA
 
 ## Dataset "Movies" :
 - **accuracy** : 81.16 % 
-- **précision**: 89.16 %
+- **précision** : 89.16 %
 - **rappel** : 81.44 %
