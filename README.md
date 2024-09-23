@@ -2,7 +2,7 @@
 Projet de la partie Traitement Automatique du Langage de l'UE RITAL (parcours DAC) M1-S2 à Sorbonne Université 
 
 # Binôme
-- MAOUCHE Mounir M1-IMA
+- [MAOUCHE Mounir](https://github.com/MaoucheMounir) M1-IMA
 - [SAID Racha](https://github.com/said-racha) M1-DAC
 
 # Problèmes étudiés
